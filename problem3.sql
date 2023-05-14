@@ -1,0 +1,1 @@
+select * from employee where salary > 50000 and first_name  in  ('Alexa', 'Brandon', 'Adam');

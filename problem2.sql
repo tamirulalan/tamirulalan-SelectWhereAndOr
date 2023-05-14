@@ -1,0 +1,1 @@
+select * from employee where salary not between 50000 and 100000;
